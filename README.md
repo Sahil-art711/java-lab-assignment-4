@@ -1,5 +1,5 @@
-# java-lab-assignment-4
-# 2401010045-Java_Lab.Assignment-4
+# java lab assignment-4
+
 This Java program manages student records using file handling. It loads students from a text file, allows adding, viewing, searching, deleting, and sorting by marks. Updated data can be saved back to the file. It uses classes for Student, file utilities, and a menu-driven StudentManager system.
 
 # 📘 Student Management System – Exception Handling, Multithreading & Wrapper Classes  
